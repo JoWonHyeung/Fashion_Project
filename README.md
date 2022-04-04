@@ -23,7 +23,8 @@ mesh153@naver.com
 
 ## Schedule
 
- 
+4/4 ~ 4/5 : selenium, beautifulsoup 라이브러리를 사용해서 네이버 카페 크롤링
+
 
 ## Result
 
