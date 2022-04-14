@@ -23,7 +23,7 @@ R, python
 
 ## Period
 
-4/4 ~ 4/22
+4/4 ~ 4/15
 
 ## Role
 
